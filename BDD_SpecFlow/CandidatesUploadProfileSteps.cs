@@ -16,7 +16,7 @@ namespace BDD_SpecFlow
         [When(@"credentials are authenciated")]
         public void WhenCredentialsAreAuthenciated()
         {
-            //ScenarioContext.Current.Pending();
+            //ScenarioContext.Current.Pending(); 
         }
         
         [Then(@"login is successful")]
